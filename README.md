@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KhaleelGhazal
-- 👀 I’m interested in front end web development and  python programming for data analysis and machine learning
+- 👀 Interested in robotics and artificial intelligence
 - 🌱 I’m currently learning mechatronics engineering
 - 📫 Reach me at khaleelghazal@gmail.com
